@@ -16,7 +16,7 @@ const client = new discord.Client({
 	autoReconnect: true,
 	partials: ["MESSAGE", "CHANNEL", "GUILD_MEMBER", "REACTION", "MESSAGE", "USER"]
 });
-const config = require('./config.json')
+
 
 client.commands = new discord.Collection();
 client.aliases = new discord.Collection();
