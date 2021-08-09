@@ -1,2 +1,3 @@
 # -Music-bot
-A simple music bot you will love
+##Go to config.json and put ur bot prefix there
+##Then put ur bot token at the end of index.js file
